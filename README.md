@@ -1,2 +1,2 @@
 # Sql and PowerBi_Project
-This is a Power bi end-to-end project 
+This is a Sql and Power bi end-to-end project 
